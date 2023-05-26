@@ -3,6 +3,10 @@ package uaslp.objetos.figuras;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+//hora inicio 4:30
+//hora final 4:40
+//tiempo total 10 minutos
+
 public class Exercise1 {
 
     // CREA LAS CLASES Y METODOS NECESARIOS PARA QUE EL TEST SE EJECUTE CORRECTAMENTE

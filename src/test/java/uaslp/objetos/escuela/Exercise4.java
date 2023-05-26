@@ -9,6 +9,11 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.platform.commons.util.ReflectionUtils;
 
+//hora inicio 5:48 aprox 5:50
+//hubo pausa y continué a las 7:00
+//hora final 7:35
+//tiempo total 45 minutos aprox
+
 public class Exercise4 {
 
     @Test

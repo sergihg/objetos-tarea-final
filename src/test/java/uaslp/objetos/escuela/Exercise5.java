@@ -1,14 +1,17 @@
 package uaslp.objetos.escuela;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
-import static org.mockito.Mockito.verify;
-import static org.mockito.Mockito.when;
+import static org.mockito.Mockito.*;
 
 import java.util.Arrays;
 import java.util.List;
 
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
+
+//hora de inicio 7:50
+//hora final 8:05
+//tiempo total 15 minutos
 
 public class Exercise5 {
 

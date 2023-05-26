@@ -8,6 +8,10 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+//hora inicio 5:25
+//hora final 5:45
+//tiempo total 20 minutos
+
 public class Exercise3 {
     // CREA LAS CLASES Y METODOS NECESARIOS PARA QUE EL TEST SE EJECUTE CORRECTAMENTE
 

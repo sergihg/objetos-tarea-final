@@ -6,6 +6,10 @@ import java.util.List;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+//hora inicio 4:45
+//hora fin 5:00
+//tiempo total 15 minutos
+
 public class Exercise2 {
 
     // CREA LAS CLASES Y METODOS NECESARIOS PARA QUE EL TEST SE EJECUTE CORRECTAMENTE
